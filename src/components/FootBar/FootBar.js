@@ -1,11 +1,11 @@
-import React from 'react'
+import React from "react";
 
 function FootBar() {
-    return (
-        <div>
-            <h2>FootBar</h2>
-        </div>
-    )
+  return (
+    <div>
+      <h2>FootBar</h2>
+    </div>
+  );
 }
 
-export default FootBar
+export default FootBar;

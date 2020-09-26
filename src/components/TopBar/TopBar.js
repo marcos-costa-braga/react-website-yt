@@ -1,11 +1,12 @@
-import React from 'react'
+import React from "react";
 
 function TopBar() {
-    return (
-        <div>
-            <h2>TopBar</h2>
-        </div>
-    )
+  return (
+    <div>
+      <h2>TopBar</h2>
+      <hr />
+    </div>
+  );
 }
 
-export default TopBar
+export default TopBar;
